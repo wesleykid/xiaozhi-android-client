@@ -138,6 +138,7 @@ flutter build ios --release
 - [x] live2d 多模型自由切换
   - 内置两个live2d官方免费下载模型
   - live2d 自由导入
+  - 口型同步
 - [x] 支持iot功能
 - [x] 支持视觉
 - [x] 创新性心情模式
