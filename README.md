@@ -133,7 +133,7 @@ flutter build ios --release
 - [x] 增强语音识别准确性
 - [x] 支持OTA自动注册设备
 - [x] 支持语音实时打断
-- [x] 支持Qwen3模型开关思考模式
+- [x] 支持思考模式
 - [x] 支持HTML代码预览
 - [x] live2d 多模型自由切换
   - 内置两个live2d官方免费下载模型
@@ -145,6 +145,7 @@ flutter build ios --release
 - [ ] 支持TTS
 - [x] 支持MCP_Client
 - [x] 支持OpenAI接口联网搜索🔍
+- [x] 支持视频播放▶️
 
 ## 联系方式
 
