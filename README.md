@@ -141,7 +141,6 @@ flutter build ios --release
 - [x] 支持iot功能
 - [x] 支持视觉
 - [x] 创新性心情模式
-- [ ] 集成MIot 控制米家设备
 - [ ] 支持TTS
 - [x] 支持MCP_Client
 - [x] 支持OpenAI接口联网搜索🔍
