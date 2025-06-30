@@ -82,50 +82,12 @@
   - 支持Qwen3模型开关思考模式
   - 支持HTML代码预览
 
-## 安装与构建
 
-1. 克隆项目:
-```bash
-git clone https://github.com/TOM88812/xiaozhi-android-client.git
-```
+## 支持的服务商
 
-2. 安装依赖:
-```bash
-flutter pub get
-```
-
-3. 运行应用:
-```bash
-flutter run
-```
-
-4. 构建发布版本:
-```bash
-# Android
-flutter build apk --release
-
-# iOS
-flutter build ios --release
-```
-
-## 配置说明
-
-### 小智服务配置
 - 支持配置多个小智服务地址
-- OTA URL设置
-- Token认证
-- 自定义MAC
-- wss地址自动获取
-
-### Dify API配置
 - 支持配置多个Dify服务
-- API密钥管理
-- 服务器URL配置
-
-### OpenAI 服务
-- 支持OpenAI接口
-- 支持自定义模型
-- 温度等配置
+- 支持多个OpenAI服务
 
 ## 开发计划
 - [x] 深色/浅色主题适配
